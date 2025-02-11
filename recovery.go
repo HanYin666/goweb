@@ -3,7 +3,7 @@ package msgo
 import (
 	"errors"
 	"fmt"
-	"github.com/HanYin666/goweb/msgo/mserror"
+	"github.com/HanYin666/goweb/mserror"
 	"net/http"
 	"runtime"
 	"strings"
