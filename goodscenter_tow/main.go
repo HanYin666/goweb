@@ -2,10 +2,10 @@ package main
 
 import (
 	"encoding/gob"
-	"github.com/mszlu521/goodscenter_two/model"
-	"github.com/mszlu521/goodscenter_two/service"
-	"github.com/mszlu521/msgo"
-	"github.com/mszlu521/msgo/rpc"
+	"github.com/HanYin666/goweb/goodscenter_two/model"
+	"github.com/HanYin666/goweb/goodscenter_two/service"
+	"github.com/HanYin666/goweb/msgo"
+	"github.com/HanYin666/goweb/msgo/rpc"
 	"log"
 	"net/http"
 )
