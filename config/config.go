@@ -3,7 +3,7 @@ package config
 import (
 	"flag"
 	"github.com/BurntSushi/toml"
-	msLog "github.com/mszlu521/msgo/log"
+	msLog "github.com/HanYin666/goweb/log"
 	"os"
 )
 
