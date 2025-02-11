@@ -1,7 +1,7 @@
 package mspool
 
 import (
-	msLog "github.com/mszlu521/msgo/log"
+	msLog "github.com/HanYin666/goweb/msgo/log"
 	"time"
 )
 
