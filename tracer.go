@@ -1,7 +1,7 @@
 package msgo
 
 import (
-	tracer2 "github.com/HanYin666/goweb/msgo/tracer"
+	tracer2 "github.com/HanYin666/goweb/tracer"
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/ext"
 	"github.com/uber/jaeger-client-go/config"
